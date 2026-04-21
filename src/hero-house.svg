@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
-  <title id="title">Дом для баннера</title>
-  <desc id="desc">Иллюстрация современного дома на фоне неба</desc>
+  <title id="title">House banner</title>
+  <desc id="desc">Illustration of a modern house against a bright sky</desc>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#cde7ff"/>
