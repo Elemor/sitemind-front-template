@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Дом для баннера</title>
+  <desc id="desc">Иллюстрация современного дома на фоне неба</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#cde7ff"/>
+      <stop offset="100%" stop-color="#f4f9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#sky)"/>
+  <rect x="70" y="230" width="500" height="120" rx="12" fill="#f6f6f6"/>
+  <rect x="110" y="165" width="230" height="130" rx="8" fill="#e7eef8"/>
+  <rect x="360" y="145" width="170" height="150" rx="8" fill="#d6e3f4"/>
+  <rect x="145" y="205" width="55" height="55" fill="#9ec2e6"/>
+  <rect x="220" y="205" width="55" height="55" fill="#9ec2e6"/>
+  <rect x="390" y="185" width="45" height="75" fill="#a9c9ea"/>
+  <rect x="450" y="185" width="45" height="75" fill="#a9c9ea"/>
+  <rect x="295" y="235" width="50" height="115" fill="#8299b8"/>
+  <rect y="350" width="640" height="70" fill="#9bc493"/>
+</svg>
