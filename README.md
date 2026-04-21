@@ -1,0 +1,1 @@
+# sitemind-front-template
